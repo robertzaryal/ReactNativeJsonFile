@@ -1,0 +1,27 @@
+"users": [{
+  {
+  id: 001,
+  username: "sohaib",
+  password: "khan1932"
+  },
+  {
+  id: 002,
+  username: "usama",
+  password: "ahmad1932"
+  },
+  {
+  id: 003,
+  username: "shuja",
+  password: "shuja1932"
+  },
+  {
+  id: 004,
+  username: "hajira",
+  password: "hajira1932"
+  },
+  {
+  id: 005,
+  username: "hafeez",
+  password: "tankore"
+  },
+}]
